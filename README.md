@@ -37,9 +37,6 @@ installed on your machine. As of July 17th, 2026 the team has been testing with 
 
 To download Node.js visit https://nodejs.org/en/download/.
 
-_NOTE: You can use a tool like [`NVM`](https://github.com/creationix/nvm)
-or [`N`](https://github.com/tj/n) to install and manage multiple node versions_
-
 #### Yarn
 
 In addition to Node.js we use `yarn` to facilitate multi package development.
